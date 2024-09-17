@@ -1,0 +1,24 @@
+{
+  "name": "youtube-stat-js",
+  "version": "1.0.0",
+  "description": "JS based app to get youtube stat overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aritram1/youtube-stat-js.git"
+  },
+  "keywords": [
+    "youtube",
+    "js",
+    "stat"
+  ],
+  "author": "aritram1@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aritram1/youtube-stat-js/issues"
+  },
+  "homepage": "https://github.com/aritram1/youtube-stat-js#readme"
+}
